@@ -1,0 +1,1353 @@
+<ROUGE-EVAL version="1.0">
+
+<EVAL ID="d30001">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30001.m.100.t.a.html</M>
+    <M ID="2">d30001.m.100.t.b.html</M>
+    <M ID="3">d30001.m.100.t.c.html</M>
+    <M ID="4">d30001.m.100.t.d.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30001.Lead.html</P>
+    <P ID="FreqSum">d30001.FreqSum.html</P>
+    <P ID="TsSum">d30001.TsSum.html</P>
+    <P ID="Centroid">d30001.Centroid.html</P>
+    <P ID="LexRank">d30001.LexRank.html</P>
+    <P ID="GreedyKL">d30001.GreedyKL.html</P>
+    <P ID="CLASSY04">d30001.CLASSY04.html</P>
+    <P ID="CLASSY11">d30001.CLASSY11.html</P>
+    <P ID="DPP">d30001.DPP.html</P>
+    <P ID="ICSISumm">d30001.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30001.OCCAMS_V.html</P>
+    <P ID="RegSum">d30001.RegSum.html</P>
+    <P ID="Submodular">d30001.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30002">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30002.m.100.t.a.html</M>
+    <M ID="2">d30002.m.100.t.b.html</M>
+    <M ID="3">d30002.m.100.t.c.html</M>
+    <M ID="4">d30002.m.100.t.e.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30002.Lead.html</P>
+    <P ID="FreqSum">d30002.FreqSum.html</P>
+    <P ID="TsSum">d30002.TsSum.html</P>
+    <P ID="Centroid">d30002.Centroid.html</P>
+    <P ID="LexRank">d30002.LexRank.html</P>
+    <P ID="GreedyKL">d30002.GreedyKL.html</P>
+    <P ID="CLASSY04">d30002.CLASSY04.html</P>
+    <P ID="CLASSY11">d30002.CLASSY11.html</P>
+    <P ID="DPP">d30002.DPP.html</P>
+    <P ID="ICSISumm">d30002.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30002.OCCAMS_V.html</P>
+    <P ID="RegSum">d30002.RegSum.html</P>
+    <P ID="Submodular">d30002.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30003">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30003.m.100.t.a.html</M>
+    <M ID="2">d30003.m.100.t.b.html</M>
+    <M ID="3">d30003.m.100.t.c.html</M>
+    <M ID="4">d30003.m.100.t.f.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30003.Lead.html</P>
+    <P ID="FreqSum">d30003.FreqSum.html</P>
+    <P ID="TsSum">d30003.TsSum.html</P>
+    <P ID="Centroid">d30003.Centroid.html</P>
+    <P ID="LexRank">d30003.LexRank.html</P>
+    <P ID="GreedyKL">d30003.GreedyKL.html</P>
+    <P ID="CLASSY04">d30003.CLASSY04.html</P>
+    <P ID="CLASSY11">d30003.CLASSY11.html</P>
+    <P ID="DPP">d30003.DPP.html</P>
+    <P ID="ICSISumm">d30003.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30003.OCCAMS_V.html</P>
+    <P ID="RegSum">d30003.RegSum.html</P>
+    <P ID="Submodular">d30003.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30005">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30005.m.100.t.a.html</M>
+    <M ID="2">d30005.m.100.t.b.html</M>
+    <M ID="3">d30005.m.100.t.c.html</M>
+    <M ID="4">d30005.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30005.Lead.html</P>
+    <P ID="FreqSum">d30005.FreqSum.html</P>
+    <P ID="TsSum">d30005.TsSum.html</P>
+    <P ID="Centroid">d30005.Centroid.html</P>
+    <P ID="LexRank">d30005.LexRank.html</P>
+    <P ID="GreedyKL">d30005.GreedyKL.html</P>
+    <P ID="CLASSY04">d30005.CLASSY04.html</P>
+    <P ID="CLASSY11">d30005.CLASSY11.html</P>
+    <P ID="DPP">d30005.DPP.html</P>
+    <P ID="ICSISumm">d30005.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30005.OCCAMS_V.html</P>
+    <P ID="RegSum">d30005.RegSum.html</P>
+    <P ID="Submodular">d30005.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30006">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30006.m.100.t.a.html</M>
+    <M ID="2">d30006.m.100.t.b.html</M>
+    <M ID="3">d30006.m.100.t.c.html</M>
+    <M ID="4">d30006.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30006.Lead.html</P>
+    <P ID="FreqSum">d30006.FreqSum.html</P>
+    <P ID="TsSum">d30006.TsSum.html</P>
+    <P ID="Centroid">d30006.Centroid.html</P>
+    <P ID="LexRank">d30006.LexRank.html</P>
+    <P ID="GreedyKL">d30006.GreedyKL.html</P>
+    <P ID="CLASSY04">d30006.CLASSY04.html</P>
+    <P ID="CLASSY11">d30006.CLASSY11.html</P>
+    <P ID="DPP">d30006.DPP.html</P>
+    <P ID="ICSISumm">d30006.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30006.OCCAMS_V.html</P>
+    <P ID="RegSum">d30006.RegSum.html</P>
+    <P ID="Submodular">d30006.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30007">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30007.m.100.t.a.html</M>
+    <M ID="2">d30007.m.100.t.b.html</M>
+    <M ID="3">d30007.m.100.t.d.html</M>
+    <M ID="4">d30007.m.100.t.e.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30007.Lead.html</P>
+    <P ID="FreqSum">d30007.FreqSum.html</P>
+    <P ID="TsSum">d30007.TsSum.html</P>
+    <P ID="Centroid">d30007.Centroid.html</P>
+    <P ID="LexRank">d30007.LexRank.html</P>
+    <P ID="GreedyKL">d30007.GreedyKL.html</P>
+    <P ID="CLASSY04">d30007.CLASSY04.html</P>
+    <P ID="CLASSY11">d30007.CLASSY11.html</P>
+    <P ID="DPP">d30007.DPP.html</P>
+    <P ID="ICSISumm">d30007.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30007.OCCAMS_V.html</P>
+    <P ID="RegSum">d30007.RegSum.html</P>
+    <P ID="Submodular">d30007.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30008">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30008.m.100.t.a.html</M>
+    <M ID="2">d30008.m.100.t.b.html</M>
+    <M ID="3">d30008.m.100.t.d.html</M>
+    <M ID="4">d30008.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30008.Lead.html</P>
+    <P ID="FreqSum">d30008.FreqSum.html</P>
+    <P ID="TsSum">d30008.TsSum.html</P>
+    <P ID="Centroid">d30008.Centroid.html</P>
+    <P ID="LexRank">d30008.LexRank.html</P>
+    <P ID="GreedyKL">d30008.GreedyKL.html</P>
+    <P ID="CLASSY04">d30008.CLASSY04.html</P>
+    <P ID="CLASSY11">d30008.CLASSY11.html</P>
+    <P ID="DPP">d30008.DPP.html</P>
+    <P ID="ICSISumm">d30008.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30008.OCCAMS_V.html</P>
+    <P ID="RegSum">d30008.RegSum.html</P>
+    <P ID="Submodular">d30008.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30010">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30010.m.100.t.a.html</M>
+    <M ID="2">d30010.m.100.t.b.html</M>
+    <M ID="3">d30010.m.100.t.d.html</M>
+    <M ID="4">d30010.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30010.Lead.html</P>
+    <P ID="FreqSum">d30010.FreqSum.html</P>
+    <P ID="TsSum">d30010.TsSum.html</P>
+    <P ID="Centroid">d30010.Centroid.html</P>
+    <P ID="LexRank">d30010.LexRank.html</P>
+    <P ID="GreedyKL">d30010.GreedyKL.html</P>
+    <P ID="CLASSY04">d30010.CLASSY04.html</P>
+    <P ID="CLASSY11">d30010.CLASSY11.html</P>
+    <P ID="DPP">d30010.DPP.html</P>
+    <P ID="ICSISumm">d30010.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30010.OCCAMS_V.html</P>
+    <P ID="RegSum">d30010.RegSum.html</P>
+    <P ID="Submodular">d30010.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30011">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30011.m.100.t.a.html</M>
+    <M ID="2">d30011.m.100.t.b.html</M>
+    <M ID="3">d30011.m.100.t.e.html</M>
+    <M ID="4">d30011.m.100.t.f.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30011.Lead.html</P>
+    <P ID="FreqSum">d30011.FreqSum.html</P>
+    <P ID="TsSum">d30011.TsSum.html</P>
+    <P ID="Centroid">d30011.Centroid.html</P>
+    <P ID="LexRank">d30011.LexRank.html</P>
+    <P ID="GreedyKL">d30011.GreedyKL.html</P>
+    <P ID="CLASSY04">d30011.CLASSY04.html</P>
+    <P ID="CLASSY11">d30011.CLASSY11.html</P>
+    <P ID="DPP">d30011.DPP.html</P>
+    <P ID="ICSISumm">d30011.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30011.OCCAMS_V.html</P>
+    <P ID="RegSum">d30011.RegSum.html</P>
+    <P ID="Submodular">d30011.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30015">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30015.m.100.t.a.html</M>
+    <M ID="2">d30015.m.100.t.b.html</M>
+    <M ID="3">d30015.m.100.t.e.html</M>
+    <M ID="4">d30015.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30015.Lead.html</P>
+    <P ID="FreqSum">d30015.FreqSum.html</P>
+    <P ID="TsSum">d30015.TsSum.html</P>
+    <P ID="Centroid">d30015.Centroid.html</P>
+    <P ID="LexRank">d30015.LexRank.html</P>
+    <P ID="GreedyKL">d30015.GreedyKL.html</P>
+    <P ID="CLASSY04">d30015.CLASSY04.html</P>
+    <P ID="CLASSY11">d30015.CLASSY11.html</P>
+    <P ID="DPP">d30015.DPP.html</P>
+    <P ID="ICSISumm">d30015.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30015.OCCAMS_V.html</P>
+    <P ID="RegSum">d30015.RegSum.html</P>
+    <P ID="Submodular">d30015.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30017">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30017.m.100.t.a.html</M>
+    <M ID="2">d30017.m.100.t.b.html</M>
+    <M ID="3">d30017.m.100.t.f.html</M>
+    <M ID="4">d30017.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30017.Lead.html</P>
+    <P ID="FreqSum">d30017.FreqSum.html</P>
+    <P ID="TsSum">d30017.TsSum.html</P>
+    <P ID="Centroid">d30017.Centroid.html</P>
+    <P ID="LexRank">d30017.LexRank.html</P>
+    <P ID="GreedyKL">d30017.GreedyKL.html</P>
+    <P ID="CLASSY04">d30017.CLASSY04.html</P>
+    <P ID="CLASSY11">d30017.CLASSY11.html</P>
+    <P ID="DPP">d30017.DPP.html</P>
+    <P ID="ICSISumm">d30017.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30017.OCCAMS_V.html</P>
+    <P ID="RegSum">d30017.RegSum.html</P>
+    <P ID="Submodular">d30017.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30020">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30020.m.100.t.a.html</M>
+    <M ID="2">d30020.m.100.t.c.html</M>
+    <M ID="3">d30020.m.100.t.d.html</M>
+    <M ID="4">d30020.m.100.t.e.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30020.Lead.html</P>
+    <P ID="FreqSum">d30020.FreqSum.html</P>
+    <P ID="TsSum">d30020.TsSum.html</P>
+    <P ID="Centroid">d30020.Centroid.html</P>
+    <P ID="LexRank">d30020.LexRank.html</P>
+    <P ID="GreedyKL">d30020.GreedyKL.html</P>
+    <P ID="CLASSY04">d30020.CLASSY04.html</P>
+    <P ID="CLASSY11">d30020.CLASSY11.html</P>
+    <P ID="DPP">d30020.DPP.html</P>
+    <P ID="ICSISumm">d30020.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30020.OCCAMS_V.html</P>
+    <P ID="RegSum">d30020.RegSum.html</P>
+    <P ID="Submodular">d30020.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30022">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30022.m.100.t.a.html</M>
+    <M ID="2">d30022.m.100.t.c.html</M>
+    <M ID="3">d30022.m.100.t.d.html</M>
+    <M ID="4">d30022.m.100.t.f.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30022.Lead.html</P>
+    <P ID="FreqSum">d30022.FreqSum.html</P>
+    <P ID="TsSum">d30022.TsSum.html</P>
+    <P ID="Centroid">d30022.Centroid.html</P>
+    <P ID="LexRank">d30022.LexRank.html</P>
+    <P ID="GreedyKL">d30022.GreedyKL.html</P>
+    <P ID="CLASSY04">d30022.CLASSY04.html</P>
+    <P ID="CLASSY11">d30022.CLASSY11.html</P>
+    <P ID="DPP">d30022.DPP.html</P>
+    <P ID="ICSISumm">d30022.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30022.OCCAMS_V.html</P>
+    <P ID="RegSum">d30022.RegSum.html</P>
+    <P ID="Submodular">d30022.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30024">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30024.m.100.t.a.html</M>
+    <M ID="2">d30024.m.100.t.c.html</M>
+    <M ID="3">d30024.m.100.t.d.html</M>
+    <M ID="4">d30024.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30024.Lead.html</P>
+    <P ID="FreqSum">d30024.FreqSum.html</P>
+    <P ID="TsSum">d30024.TsSum.html</P>
+    <P ID="Centroid">d30024.Centroid.html</P>
+    <P ID="LexRank">d30024.LexRank.html</P>
+    <P ID="GreedyKL">d30024.GreedyKL.html</P>
+    <P ID="CLASSY04">d30024.CLASSY04.html</P>
+    <P ID="CLASSY11">d30024.CLASSY11.html</P>
+    <P ID="DPP">d30024.DPP.html</P>
+    <P ID="ICSISumm">d30024.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30024.OCCAMS_V.html</P>
+    <P ID="RegSum">d30024.RegSum.html</P>
+    <P ID="Submodular">d30024.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30026">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30026.m.100.t.a.html</M>
+    <M ID="2">d30026.m.100.t.c.html</M>
+    <M ID="3">d30026.m.100.t.d.html</M>
+    <M ID="4">d30026.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30026.Lead.html</P>
+    <P ID="FreqSum">d30026.FreqSum.html</P>
+    <P ID="TsSum">d30026.TsSum.html</P>
+    <P ID="Centroid">d30026.Centroid.html</P>
+    <P ID="LexRank">d30026.LexRank.html</P>
+    <P ID="GreedyKL">d30026.GreedyKL.html</P>
+    <P ID="CLASSY04">d30026.CLASSY04.html</P>
+    <P ID="CLASSY11">d30026.CLASSY11.html</P>
+    <P ID="DPP">d30026.DPP.html</P>
+    <P ID="ICSISumm">d30026.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30026.OCCAMS_V.html</P>
+    <P ID="RegSum">d30026.RegSum.html</P>
+    <P ID="Submodular">d30026.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30027">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30027.m.100.t.a.html</M>
+    <M ID="2">d30027.m.100.t.c.html</M>
+    <M ID="3">d30027.m.100.t.e.html</M>
+    <M ID="4">d30027.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30027.Lead.html</P>
+    <P ID="FreqSum">d30027.FreqSum.html</P>
+    <P ID="TsSum">d30027.TsSum.html</P>
+    <P ID="Centroid">d30027.Centroid.html</P>
+    <P ID="LexRank">d30027.LexRank.html</P>
+    <P ID="GreedyKL">d30027.GreedyKL.html</P>
+    <P ID="CLASSY04">d30027.CLASSY04.html</P>
+    <P ID="CLASSY11">d30027.CLASSY11.html</P>
+    <P ID="DPP">d30027.DPP.html</P>
+    <P ID="ICSISumm">d30027.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30027.OCCAMS_V.html</P>
+    <P ID="RegSum">d30027.RegSum.html</P>
+    <P ID="Submodular">d30027.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30028">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30028.m.100.t.a.html</M>
+    <M ID="2">d30028.m.100.t.c.html</M>
+    <M ID="3">d30028.m.100.t.f.html</M>
+    <M ID="4">d30028.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30028.Lead.html</P>
+    <P ID="FreqSum">d30028.FreqSum.html</P>
+    <P ID="TsSum">d30028.TsSum.html</P>
+    <P ID="Centroid">d30028.Centroid.html</P>
+    <P ID="LexRank">d30028.LexRank.html</P>
+    <P ID="GreedyKL">d30028.GreedyKL.html</P>
+    <P ID="CLASSY04">d30028.CLASSY04.html</P>
+    <P ID="CLASSY11">d30028.CLASSY11.html</P>
+    <P ID="DPP">d30028.DPP.html</P>
+    <P ID="ICSISumm">d30028.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30028.OCCAMS_V.html</P>
+    <P ID="RegSum">d30028.RegSum.html</P>
+    <P ID="Submodular">d30028.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30029">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30029.m.100.t.a.html</M>
+    <M ID="2">d30029.m.100.t.c.html</M>
+    <M ID="3">d30029.m.100.t.f.html</M>
+    <M ID="4">d30029.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30029.Lead.html</P>
+    <P ID="FreqSum">d30029.FreqSum.html</P>
+    <P ID="TsSum">d30029.TsSum.html</P>
+    <P ID="Centroid">d30029.Centroid.html</P>
+    <P ID="LexRank">d30029.LexRank.html</P>
+    <P ID="GreedyKL">d30029.GreedyKL.html</P>
+    <P ID="CLASSY04">d30029.CLASSY04.html</P>
+    <P ID="CLASSY11">d30029.CLASSY11.html</P>
+    <P ID="DPP">d30029.DPP.html</P>
+    <P ID="ICSISumm">d30029.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30029.OCCAMS_V.html</P>
+    <P ID="RegSum">d30029.RegSum.html</P>
+    <P ID="Submodular">d30029.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30031">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30031.m.100.t.a.html</M>
+    <M ID="2">d30031.m.100.t.d.html</M>
+    <M ID="3">d30031.m.100.t.e.html</M>
+    <M ID="4">d30031.m.100.t.f.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30031.Lead.html</P>
+    <P ID="FreqSum">d30031.FreqSum.html</P>
+    <P ID="TsSum">d30031.TsSum.html</P>
+    <P ID="Centroid">d30031.Centroid.html</P>
+    <P ID="LexRank">d30031.LexRank.html</P>
+    <P ID="GreedyKL">d30031.GreedyKL.html</P>
+    <P ID="CLASSY04">d30031.CLASSY04.html</P>
+    <P ID="CLASSY11">d30031.CLASSY11.html</P>
+    <P ID="DPP">d30031.DPP.html</P>
+    <P ID="ICSISumm">d30031.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30031.OCCAMS_V.html</P>
+    <P ID="RegSum">d30031.RegSum.html</P>
+    <P ID="Submodular">d30031.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30033">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30033.m.100.t.a.html</M>
+    <M ID="2">d30033.m.100.t.d.html</M>
+    <M ID="3">d30033.m.100.t.e.html</M>
+    <M ID="4">d30033.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30033.Lead.html</P>
+    <P ID="FreqSum">d30033.FreqSum.html</P>
+    <P ID="TsSum">d30033.TsSum.html</P>
+    <P ID="Centroid">d30033.Centroid.html</P>
+    <P ID="LexRank">d30033.LexRank.html</P>
+    <P ID="GreedyKL">d30033.GreedyKL.html</P>
+    <P ID="CLASSY04">d30033.CLASSY04.html</P>
+    <P ID="CLASSY11">d30033.CLASSY11.html</P>
+    <P ID="DPP">d30033.DPP.html</P>
+    <P ID="ICSISumm">d30033.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30033.OCCAMS_V.html</P>
+    <P ID="RegSum">d30033.RegSum.html</P>
+    <P ID="Submodular">d30033.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30034">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30034.m.100.t.a.html</M>
+    <M ID="2">d30034.m.100.t.d.html</M>
+    <M ID="3">d30034.m.100.t.f.html</M>
+    <M ID="4">d30034.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30034.Lead.html</P>
+    <P ID="FreqSum">d30034.FreqSum.html</P>
+    <P ID="TsSum">d30034.TsSum.html</P>
+    <P ID="Centroid">d30034.Centroid.html</P>
+    <P ID="LexRank">d30034.LexRank.html</P>
+    <P ID="GreedyKL">d30034.GreedyKL.html</P>
+    <P ID="CLASSY04">d30034.CLASSY04.html</P>
+    <P ID="CLASSY11">d30034.CLASSY11.html</P>
+    <P ID="DPP">d30034.DPP.html</P>
+    <P ID="ICSISumm">d30034.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30034.OCCAMS_V.html</P>
+    <P ID="RegSum">d30034.RegSum.html</P>
+    <P ID="Submodular">d30034.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30036">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30036.m.100.t.a.html</M>
+    <M ID="2">d30036.m.100.t.d.html</M>
+    <M ID="3">d30036.m.100.t.f.html</M>
+    <M ID="4">d30036.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30036.Lead.html</P>
+    <P ID="FreqSum">d30036.FreqSum.html</P>
+    <P ID="TsSum">d30036.TsSum.html</P>
+    <P ID="Centroid">d30036.Centroid.html</P>
+    <P ID="LexRank">d30036.LexRank.html</P>
+    <P ID="GreedyKL">d30036.GreedyKL.html</P>
+    <P ID="CLASSY04">d30036.CLASSY04.html</P>
+    <P ID="CLASSY11">d30036.CLASSY11.html</P>
+    <P ID="DPP">d30036.DPP.html</P>
+    <P ID="ICSISumm">d30036.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30036.OCCAMS_V.html</P>
+    <P ID="RegSum">d30036.RegSum.html</P>
+    <P ID="Submodular">d30036.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30037">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30037.m.100.t.a.html</M>
+    <M ID="2">d30037.m.100.t.d.html</M>
+    <M ID="3">d30037.m.100.t.g.html</M>
+    <M ID="4">d30037.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30037.Lead.html</P>
+    <P ID="FreqSum">d30037.FreqSum.html</P>
+    <P ID="TsSum">d30037.TsSum.html</P>
+    <P ID="Centroid">d30037.Centroid.html</P>
+    <P ID="LexRank">d30037.LexRank.html</P>
+    <P ID="GreedyKL">d30037.GreedyKL.html</P>
+    <P ID="CLASSY04">d30037.CLASSY04.html</P>
+    <P ID="CLASSY11">d30037.CLASSY11.html</P>
+    <P ID="DPP">d30037.DPP.html</P>
+    <P ID="ICSISumm">d30037.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30037.OCCAMS_V.html</P>
+    <P ID="RegSum">d30037.RegSum.html</P>
+    <P ID="Submodular">d30037.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30038">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30038.m.100.t.a.html</M>
+    <M ID="2">d30038.m.100.t.e.html</M>
+    <M ID="3">d30038.m.100.t.f.html</M>
+    <M ID="4">d30038.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30038.Lead.html</P>
+    <P ID="FreqSum">d30038.FreqSum.html</P>
+    <P ID="TsSum">d30038.TsSum.html</P>
+    <P ID="Centroid">d30038.Centroid.html</P>
+    <P ID="LexRank">d30038.LexRank.html</P>
+    <P ID="GreedyKL">d30038.GreedyKL.html</P>
+    <P ID="CLASSY04">d30038.CLASSY04.html</P>
+    <P ID="CLASSY11">d30038.CLASSY11.html</P>
+    <P ID="DPP">d30038.DPP.html</P>
+    <P ID="ICSISumm">d30038.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30038.OCCAMS_V.html</P>
+    <P ID="RegSum">d30038.RegSum.html</P>
+    <P ID="Submodular">d30038.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30040">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30040.m.100.t.a.html</M>
+    <M ID="2">d30040.m.100.t.e.html</M>
+    <M ID="3">d30040.m.100.t.g.html</M>
+    <M ID="4">d30040.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30040.Lead.html</P>
+    <P ID="FreqSum">d30040.FreqSum.html</P>
+    <P ID="TsSum">d30040.TsSum.html</P>
+    <P ID="Centroid">d30040.Centroid.html</P>
+    <P ID="LexRank">d30040.LexRank.html</P>
+    <P ID="GreedyKL">d30040.GreedyKL.html</P>
+    <P ID="CLASSY04">d30040.CLASSY04.html</P>
+    <P ID="CLASSY11">d30040.CLASSY11.html</P>
+    <P ID="DPP">d30040.DPP.html</P>
+    <P ID="ICSISumm">d30040.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30040.OCCAMS_V.html</P>
+    <P ID="RegSum">d30040.RegSum.html</P>
+    <P ID="Submodular">d30040.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30042">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30042.m.100.t.b.html</M>
+    <M ID="2">d30042.m.100.t.c.html</M>
+    <M ID="3">d30042.m.100.t.d.html</M>
+    <M ID="4">d30042.m.100.t.f.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30042.Lead.html</P>
+    <P ID="FreqSum">d30042.FreqSum.html</P>
+    <P ID="TsSum">d30042.TsSum.html</P>
+    <P ID="Centroid">d30042.Centroid.html</P>
+    <P ID="LexRank">d30042.LexRank.html</P>
+    <P ID="GreedyKL">d30042.GreedyKL.html</P>
+    <P ID="CLASSY04">d30042.CLASSY04.html</P>
+    <P ID="CLASSY11">d30042.CLASSY11.html</P>
+    <P ID="DPP">d30042.DPP.html</P>
+    <P ID="ICSISumm">d30042.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30042.OCCAMS_V.html</P>
+    <P ID="RegSum">d30042.RegSum.html</P>
+    <P ID="Submodular">d30042.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30044">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30044.m.100.t.b.html</M>
+    <M ID="2">d30044.m.100.t.c.html</M>
+    <M ID="3">d30044.m.100.t.d.html</M>
+    <M ID="4">d30044.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30044.Lead.html</P>
+    <P ID="FreqSum">d30044.FreqSum.html</P>
+    <P ID="TsSum">d30044.TsSum.html</P>
+    <P ID="Centroid">d30044.Centroid.html</P>
+    <P ID="LexRank">d30044.LexRank.html</P>
+    <P ID="GreedyKL">d30044.GreedyKL.html</P>
+    <P ID="CLASSY04">d30044.CLASSY04.html</P>
+    <P ID="CLASSY11">d30044.CLASSY11.html</P>
+    <P ID="DPP">d30044.DPP.html</P>
+    <P ID="ICSISumm">d30044.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30044.OCCAMS_V.html</P>
+    <P ID="RegSum">d30044.RegSum.html</P>
+    <P ID="Submodular">d30044.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30045">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30045.m.100.t.b.html</M>
+    <M ID="2">d30045.m.100.t.c.html</M>
+    <M ID="3">d30045.m.100.t.e.html</M>
+    <M ID="4">d30045.m.100.t.f.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30045.Lead.html</P>
+    <P ID="FreqSum">d30045.FreqSum.html</P>
+    <P ID="TsSum">d30045.TsSum.html</P>
+    <P ID="Centroid">d30045.Centroid.html</P>
+    <P ID="LexRank">d30045.LexRank.html</P>
+    <P ID="GreedyKL">d30045.GreedyKL.html</P>
+    <P ID="CLASSY04">d30045.CLASSY04.html</P>
+    <P ID="CLASSY11">d30045.CLASSY11.html</P>
+    <P ID="DPP">d30045.DPP.html</P>
+    <P ID="ICSISumm">d30045.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30045.OCCAMS_V.html</P>
+    <P ID="RegSum">d30045.RegSum.html</P>
+    <P ID="Submodular">d30045.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30046">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30046.m.100.t.b.html</M>
+    <M ID="2">d30046.m.100.t.c.html</M>
+    <M ID="3">d30046.m.100.t.e.html</M>
+    <M ID="4">d30046.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30046.Lead.html</P>
+    <P ID="FreqSum">d30046.FreqSum.html</P>
+    <P ID="TsSum">d30046.TsSum.html</P>
+    <P ID="Centroid">d30046.Centroid.html</P>
+    <P ID="LexRank">d30046.LexRank.html</P>
+    <P ID="GreedyKL">d30046.GreedyKL.html</P>
+    <P ID="CLASSY04">d30046.CLASSY04.html</P>
+    <P ID="CLASSY11">d30046.CLASSY11.html</P>
+    <P ID="DPP">d30046.DPP.html</P>
+    <P ID="ICSISumm">d30046.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30046.OCCAMS_V.html</P>
+    <P ID="RegSum">d30046.RegSum.html</P>
+    <P ID="Submodular">d30046.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30047">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30047.m.100.t.b.html</M>
+    <M ID="2">d30047.m.100.t.c.html</M>
+    <M ID="3">d30047.m.100.t.f.html</M>
+    <M ID="4">d30047.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30047.Lead.html</P>
+    <P ID="FreqSum">d30047.FreqSum.html</P>
+    <P ID="TsSum">d30047.TsSum.html</P>
+    <P ID="Centroid">d30047.Centroid.html</P>
+    <P ID="LexRank">d30047.LexRank.html</P>
+    <P ID="GreedyKL">d30047.GreedyKL.html</P>
+    <P ID="CLASSY04">d30047.CLASSY04.html</P>
+    <P ID="CLASSY11">d30047.CLASSY11.html</P>
+    <P ID="DPP">d30047.DPP.html</P>
+    <P ID="ICSISumm">d30047.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30047.OCCAMS_V.html</P>
+    <P ID="RegSum">d30047.RegSum.html</P>
+    <P ID="Submodular">d30047.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30048">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30048.m.100.t.b.html</M>
+    <M ID="2">d30048.m.100.t.c.html</M>
+    <M ID="3">d30048.m.100.t.g.html</M>
+    <M ID="4">d30048.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30048.Lead.html</P>
+    <P ID="FreqSum">d30048.FreqSum.html</P>
+    <P ID="TsSum">d30048.TsSum.html</P>
+    <P ID="Centroid">d30048.Centroid.html</P>
+    <P ID="LexRank">d30048.LexRank.html</P>
+    <P ID="GreedyKL">d30048.GreedyKL.html</P>
+    <P ID="CLASSY04">d30048.CLASSY04.html</P>
+    <P ID="CLASSY11">d30048.CLASSY11.html</P>
+    <P ID="DPP">d30048.DPP.html</P>
+    <P ID="ICSISumm">d30048.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30048.OCCAMS_V.html</P>
+    <P ID="RegSum">d30048.RegSum.html</P>
+    <P ID="Submodular">d30048.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30049">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30049.m.100.t.b.html</M>
+    <M ID="2">d30049.m.100.t.d.html</M>
+    <M ID="3">d30049.m.100.t.e.html</M>
+    <M ID="4">d30049.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30049.Lead.html</P>
+    <P ID="FreqSum">d30049.FreqSum.html</P>
+    <P ID="TsSum">d30049.TsSum.html</P>
+    <P ID="Centroid">d30049.Centroid.html</P>
+    <P ID="LexRank">d30049.LexRank.html</P>
+    <P ID="GreedyKL">d30049.GreedyKL.html</P>
+    <P ID="CLASSY04">d30049.CLASSY04.html</P>
+    <P ID="CLASSY11">d30049.CLASSY11.html</P>
+    <P ID="DPP">d30049.DPP.html</P>
+    <P ID="ICSISumm">d30049.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30049.OCCAMS_V.html</P>
+    <P ID="RegSum">d30049.RegSum.html</P>
+    <P ID="Submodular">d30049.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30050">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30050.m.100.t.b.html</M>
+    <M ID="2">d30050.m.100.t.d.html</M>
+    <M ID="3">d30050.m.100.t.e.html</M>
+    <M ID="4">d30050.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30050.Lead.html</P>
+    <P ID="FreqSum">d30050.FreqSum.html</P>
+    <P ID="TsSum">d30050.TsSum.html</P>
+    <P ID="Centroid">d30050.Centroid.html</P>
+    <P ID="LexRank">d30050.LexRank.html</P>
+    <P ID="GreedyKL">d30050.GreedyKL.html</P>
+    <P ID="CLASSY04">d30050.CLASSY04.html</P>
+    <P ID="CLASSY11">d30050.CLASSY11.html</P>
+    <P ID="DPP">d30050.DPP.html</P>
+    <P ID="ICSISumm">d30050.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30050.OCCAMS_V.html</P>
+    <P ID="RegSum">d30050.RegSum.html</P>
+    <P ID="Submodular">d30050.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30051">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30051.m.100.t.b.html</M>
+    <M ID="2">d30051.m.100.t.d.html</M>
+    <M ID="3">d30051.m.100.t.f.html</M>
+    <M ID="4">d30051.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30051.Lead.html</P>
+    <P ID="FreqSum">d30051.FreqSum.html</P>
+    <P ID="TsSum">d30051.TsSum.html</P>
+    <P ID="Centroid">d30051.Centroid.html</P>
+    <P ID="LexRank">d30051.LexRank.html</P>
+    <P ID="GreedyKL">d30051.GreedyKL.html</P>
+    <P ID="CLASSY04">d30051.CLASSY04.html</P>
+    <P ID="CLASSY11">d30051.CLASSY11.html</P>
+    <P ID="DPP">d30051.DPP.html</P>
+    <P ID="ICSISumm">d30051.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30051.OCCAMS_V.html</P>
+    <P ID="RegSum">d30051.RegSum.html</P>
+    <P ID="Submodular">d30051.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30053">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30053.m.100.t.b.html</M>
+    <M ID="2">d30053.m.100.t.e.html</M>
+    <M ID="3">d30053.m.100.t.f.html</M>
+    <M ID="4">d30053.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30053.Lead.html</P>
+    <P ID="FreqSum">d30053.FreqSum.html</P>
+    <P ID="TsSum">d30053.TsSum.html</P>
+    <P ID="Centroid">d30053.Centroid.html</P>
+    <P ID="LexRank">d30053.LexRank.html</P>
+    <P ID="GreedyKL">d30053.GreedyKL.html</P>
+    <P ID="CLASSY04">d30053.CLASSY04.html</P>
+    <P ID="CLASSY11">d30053.CLASSY11.html</P>
+    <P ID="DPP">d30053.DPP.html</P>
+    <P ID="ICSISumm">d30053.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30053.OCCAMS_V.html</P>
+    <P ID="RegSum">d30053.RegSum.html</P>
+    <P ID="Submodular">d30053.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30055">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30055.m.100.t.b.html</M>
+    <M ID="2">d30055.m.100.t.e.html</M>
+    <M ID="3">d30055.m.100.t.f.html</M>
+    <M ID="4">d30055.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30055.Lead.html</P>
+    <P ID="FreqSum">d30055.FreqSum.html</P>
+    <P ID="TsSum">d30055.TsSum.html</P>
+    <P ID="Centroid">d30055.Centroid.html</P>
+    <P ID="LexRank">d30055.LexRank.html</P>
+    <P ID="GreedyKL">d30055.GreedyKL.html</P>
+    <P ID="CLASSY04">d30055.CLASSY04.html</P>
+    <P ID="CLASSY11">d30055.CLASSY11.html</P>
+    <P ID="DPP">d30055.DPP.html</P>
+    <P ID="ICSISumm">d30055.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30055.OCCAMS_V.html</P>
+    <P ID="RegSum">d30055.RegSum.html</P>
+    <P ID="Submodular">d30055.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30056">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30056.m.100.t.b.html</M>
+    <M ID="2">d30056.m.100.t.e.html</M>
+    <M ID="3">d30056.m.100.t.g.html</M>
+    <M ID="4">d30056.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30056.Lead.html</P>
+    <P ID="FreqSum">d30056.FreqSum.html</P>
+    <P ID="TsSum">d30056.TsSum.html</P>
+    <P ID="Centroid">d30056.Centroid.html</P>
+    <P ID="LexRank">d30056.LexRank.html</P>
+    <P ID="GreedyKL">d30056.GreedyKL.html</P>
+    <P ID="CLASSY04">d30056.CLASSY04.html</P>
+    <P ID="CLASSY11">d30056.CLASSY11.html</P>
+    <P ID="DPP">d30056.DPP.html</P>
+    <P ID="ICSISumm">d30056.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30056.OCCAMS_V.html</P>
+    <P ID="RegSum">d30056.RegSum.html</P>
+    <P ID="Submodular">d30056.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d30059">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d30059.m.100.t.b.html</M>
+    <M ID="2">d30059.m.100.t.f.html</M>
+    <M ID="3">d30059.m.100.t.g.html</M>
+    <M ID="4">d30059.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d30059.Lead.html</P>
+    <P ID="FreqSum">d30059.FreqSum.html</P>
+    <P ID="TsSum">d30059.TsSum.html</P>
+    <P ID="Centroid">d30059.Centroid.html</P>
+    <P ID="LexRank">d30059.LexRank.html</P>
+    <P ID="GreedyKL">d30059.GreedyKL.html</P>
+    <P ID="CLASSY04">d30059.CLASSY04.html</P>
+    <P ID="CLASSY11">d30059.CLASSY11.html</P>
+    <P ID="DPP">d30059.DPP.html</P>
+    <P ID="ICSISumm">d30059.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d30059.OCCAMS_V.html</P>
+    <P ID="RegSum">d30059.RegSum.html</P>
+    <P ID="Submodular">d30059.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31001">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31001.m.100.t.c.html</M>
+    <M ID="2">d31001.m.100.t.d.html</M>
+    <M ID="3">d31001.m.100.t.e.html</M>
+    <M ID="4">d31001.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31001.Lead.html</P>
+    <P ID="FreqSum">d31001.FreqSum.html</P>
+    <P ID="TsSum">d31001.TsSum.html</P>
+    <P ID="Centroid">d31001.Centroid.html</P>
+    <P ID="LexRank">d31001.LexRank.html</P>
+    <P ID="GreedyKL">d31001.GreedyKL.html</P>
+    <P ID="CLASSY04">d31001.CLASSY04.html</P>
+    <P ID="CLASSY11">d31001.CLASSY11.html</P>
+    <P ID="DPP">d31001.DPP.html</P>
+    <P ID="ICSISumm">d31001.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31001.OCCAMS_V.html</P>
+    <P ID="RegSum">d31001.RegSum.html</P>
+    <P ID="Submodular">d31001.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31008">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31008.m.100.t.c.html</M>
+    <M ID="2">d31008.m.100.t.d.html</M>
+    <M ID="3">d31008.m.100.t.e.html</M>
+    <M ID="4">d31008.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31008.Lead.html</P>
+    <P ID="FreqSum">d31008.FreqSum.html</P>
+    <P ID="TsSum">d31008.TsSum.html</P>
+    <P ID="Centroid">d31008.Centroid.html</P>
+    <P ID="LexRank">d31008.LexRank.html</P>
+    <P ID="GreedyKL">d31008.GreedyKL.html</P>
+    <P ID="CLASSY04">d31008.CLASSY04.html</P>
+    <P ID="CLASSY11">d31008.CLASSY11.html</P>
+    <P ID="DPP">d31008.DPP.html</P>
+    <P ID="ICSISumm">d31008.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31008.OCCAMS_V.html</P>
+    <P ID="RegSum">d31008.RegSum.html</P>
+    <P ID="Submodular">d31008.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31009">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31009.m.100.t.b.html</M>
+    <M ID="2">d31009.m.100.t.c.html</M>
+    <M ID="3">d31009.m.100.t.f.html</M>
+    <M ID="4">d31009.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31009.Lead.html</P>
+    <P ID="FreqSum">d31009.FreqSum.html</P>
+    <P ID="TsSum">d31009.TsSum.html</P>
+    <P ID="Centroid">d31009.Centroid.html</P>
+    <P ID="LexRank">d31009.LexRank.html</P>
+    <P ID="GreedyKL">d31009.GreedyKL.html</P>
+    <P ID="CLASSY04">d31009.CLASSY04.html</P>
+    <P ID="CLASSY11">d31009.CLASSY11.html</P>
+    <P ID="DPP">d31009.DPP.html</P>
+    <P ID="ICSISumm">d31009.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31009.OCCAMS_V.html</P>
+    <P ID="RegSum">d31009.RegSum.html</P>
+    <P ID="Submodular">d31009.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31013">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31013.m.100.t.c.html</M>
+    <M ID="2">d31013.m.100.t.d.html</M>
+    <M ID="3">d31013.m.100.t.g.html</M>
+    <M ID="4">d31013.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31013.Lead.html</P>
+    <P ID="FreqSum">d31013.FreqSum.html</P>
+    <P ID="TsSum">d31013.TsSum.html</P>
+    <P ID="Centroid">d31013.Centroid.html</P>
+    <P ID="LexRank">d31013.LexRank.html</P>
+    <P ID="GreedyKL">d31013.GreedyKL.html</P>
+    <P ID="CLASSY04">d31013.CLASSY04.html</P>
+    <P ID="CLASSY11">d31013.CLASSY11.html</P>
+    <P ID="DPP">d31013.DPP.html</P>
+    <P ID="ICSISumm">d31013.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31013.OCCAMS_V.html</P>
+    <P ID="RegSum">d31013.RegSum.html</P>
+    <P ID="Submodular">d31013.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31022">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31022.m.100.t.c.html</M>
+    <M ID="2">d31022.m.100.t.e.html</M>
+    <M ID="3">d31022.m.100.t.f.html</M>
+    <M ID="4">d31022.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31022.Lead.html</P>
+    <P ID="FreqSum">d31022.FreqSum.html</P>
+    <P ID="TsSum">d31022.TsSum.html</P>
+    <P ID="Centroid">d31022.Centroid.html</P>
+    <P ID="LexRank">d31022.LexRank.html</P>
+    <P ID="GreedyKL">d31022.GreedyKL.html</P>
+    <P ID="CLASSY04">d31022.CLASSY04.html</P>
+    <P ID="CLASSY11">d31022.CLASSY11.html</P>
+    <P ID="DPP">d31022.DPP.html</P>
+    <P ID="ICSISumm">d31022.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31022.OCCAMS_V.html</P>
+    <P ID="RegSum">d31022.RegSum.html</P>
+    <P ID="Submodular">d31022.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31026">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31026.m.100.t.c.html</M>
+    <M ID="2">d31026.m.100.t.e.html</M>
+    <M ID="3">d31026.m.100.t.f.html</M>
+    <M ID="4">d31026.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31026.Lead.html</P>
+    <P ID="FreqSum">d31026.FreqSum.html</P>
+    <P ID="TsSum">d31026.TsSum.html</P>
+    <P ID="Centroid">d31026.Centroid.html</P>
+    <P ID="LexRank">d31026.LexRank.html</P>
+    <P ID="GreedyKL">d31026.GreedyKL.html</P>
+    <P ID="CLASSY04">d31026.CLASSY04.html</P>
+    <P ID="CLASSY11">d31026.CLASSY11.html</P>
+    <P ID="DPP">d31026.DPP.html</P>
+    <P ID="ICSISumm">d31026.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31026.OCCAMS_V.html</P>
+    <P ID="RegSum">d31026.RegSum.html</P>
+    <P ID="Submodular">d31026.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31031">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31031.m.100.t.c.html</M>
+    <M ID="2">d31031.m.100.t.f.html</M>
+    <M ID="3">d31031.m.100.t.g.html</M>
+    <M ID="4">d31031.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31031.Lead.html</P>
+    <P ID="FreqSum">d31031.FreqSum.html</P>
+    <P ID="TsSum">d31031.TsSum.html</P>
+    <P ID="Centroid">d31031.Centroid.html</P>
+    <P ID="LexRank">d31031.LexRank.html</P>
+    <P ID="GreedyKL">d31031.GreedyKL.html</P>
+    <P ID="CLASSY04">d31031.CLASSY04.html</P>
+    <P ID="CLASSY11">d31031.CLASSY11.html</P>
+    <P ID="DPP">d31031.DPP.html</P>
+    <P ID="ICSISumm">d31031.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31031.OCCAMS_V.html</P>
+    <P ID="RegSum">d31031.RegSum.html</P>
+    <P ID="Submodular">d31031.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31032">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31032.m.100.t.d.html</M>
+    <M ID="2">d31032.m.100.t.e.html</M>
+    <M ID="3">d31032.m.100.t.f.html</M>
+    <M ID="4">d31032.m.100.t.g.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31032.Lead.html</P>
+    <P ID="FreqSum">d31032.FreqSum.html</P>
+    <P ID="TsSum">d31032.TsSum.html</P>
+    <P ID="Centroid">d31032.Centroid.html</P>
+    <P ID="LexRank">d31032.LexRank.html</P>
+    <P ID="GreedyKL">d31032.GreedyKL.html</P>
+    <P ID="CLASSY04">d31032.CLASSY04.html</P>
+    <P ID="CLASSY11">d31032.CLASSY11.html</P>
+    <P ID="DPP">d31032.DPP.html</P>
+    <P ID="ICSISumm">d31032.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31032.OCCAMS_V.html</P>
+    <P ID="RegSum">d31032.RegSum.html</P>
+    <P ID="Submodular">d31032.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31033">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31033.m.100.t.d.html</M>
+    <M ID="2">d31033.m.100.t.e.html</M>
+    <M ID="3">d31033.m.100.t.f.html</M>
+    <M ID="4">d31033.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31033.Lead.html</P>
+    <P ID="FreqSum">d31033.FreqSum.html</P>
+    <P ID="TsSum">d31033.TsSum.html</P>
+    <P ID="Centroid">d31033.Centroid.html</P>
+    <P ID="LexRank">d31033.LexRank.html</P>
+    <P ID="GreedyKL">d31033.GreedyKL.html</P>
+    <P ID="CLASSY04">d31033.CLASSY04.html</P>
+    <P ID="CLASSY11">d31033.CLASSY11.html</P>
+    <P ID="DPP">d31033.DPP.html</P>
+    <P ID="ICSISumm">d31033.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31033.OCCAMS_V.html</P>
+    <P ID="RegSum">d31033.RegSum.html</P>
+    <P ID="Submodular">d31033.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31038">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31038.m.100.t.d.html</M>
+    <M ID="2">d31038.m.100.t.e.html</M>
+    <M ID="3">d31038.m.100.t.g.html</M>
+    <M ID="4">d31038.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31038.Lead.html</P>
+    <P ID="FreqSum">d31038.FreqSum.html</P>
+    <P ID="TsSum">d31038.TsSum.html</P>
+    <P ID="Centroid">d31038.Centroid.html</P>
+    <P ID="LexRank">d31038.LexRank.html</P>
+    <P ID="GreedyKL">d31038.GreedyKL.html</P>
+    <P ID="CLASSY04">d31038.CLASSY04.html</P>
+    <P ID="CLASSY11">d31038.CLASSY11.html</P>
+    <P ID="DPP">d31038.DPP.html</P>
+    <P ID="ICSISumm">d31038.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31038.OCCAMS_V.html</P>
+    <P ID="RegSum">d31038.RegSum.html</P>
+    <P ID="Submodular">d31038.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31043">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31043.m.100.t.d.html</M>
+    <M ID="2">d31043.m.100.t.f.html</M>
+    <M ID="3">d31043.m.100.t.g.html</M>
+    <M ID="4">d31043.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31043.Lead.html</P>
+    <P ID="FreqSum">d31043.FreqSum.html</P>
+    <P ID="TsSum">d31043.TsSum.html</P>
+    <P ID="Centroid">d31043.Centroid.html</P>
+    <P ID="LexRank">d31043.LexRank.html</P>
+    <P ID="GreedyKL">d31043.GreedyKL.html</P>
+    <P ID="CLASSY04">d31043.CLASSY04.html</P>
+    <P ID="CLASSY11">d31043.CLASSY11.html</P>
+    <P ID="DPP">d31043.DPP.html</P>
+    <P ID="ICSISumm">d31043.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31043.OCCAMS_V.html</P>
+    <P ID="RegSum">d31043.RegSum.html</P>
+    <P ID="Submodular">d31043.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+<EVAL ID="d31050">
+  <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+  <MODEL-ROOT>models</MODEL-ROOT>
+  <MODELS>
+    <M ID="1">d31050.m.100.t.e.html</M>
+    <M ID="2">d31050.m.100.t.f.html</M>
+    <M ID="3">d31050.m.100.t.g.html</M>
+    <M ID="4">d31050.m.100.t.h.html</M>
+  </MODELS>
+  <PEER-ROOT>peers</PEER-ROOT>
+  <PEERS>
+    <P ID="Lead">d31050.Lead.html</P>
+    <P ID="FreqSum">d31050.FreqSum.html</P>
+    <P ID="TsSum">d31050.TsSum.html</P>
+    <P ID="Centroid">d31050.Centroid.html</P>
+    <P ID="LexRank">d31050.LexRank.html</P>
+    <P ID="GreedyKL">d31050.GreedyKL.html</P>
+    <P ID="CLASSY04">d31050.CLASSY04.html</P>
+    <P ID="CLASSY11">d31050.CLASSY11.html</P>
+    <P ID="DPP">d31050.DPP.html</P>
+    <P ID="ICSISumm">d31050.ICSISumm.html</P>
+    <P ID="OCCAMS_V">d31050.OCCAMS_V.html</P>
+    <P ID="RegSum">d31050.RegSum.html</P>
+    <P ID="Submodular">d31050.Submodular.html</P>
+  </PEERS>
+</EVAL>
+
+</ROUGE-EVAL>
