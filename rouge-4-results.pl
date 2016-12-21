@@ -9,7 +9,7 @@ use Encode qw{ encode decode };
 # Parse ROUGE evaluation.
 # 
 # @author  Stuart Mackie (s.mackie.1@research.gla.ac.uk).
-# @version November 2016.
+# @version December 2016.
 
 my @systems = (
   "Lead",
@@ -34,12 +34,13 @@ while (my $line = <$RESULTS>) {
 
 close $RESULTS;
 
-say "System\tR-1\tR-2";
+say "System\tR-1\tR-2\tR-4";
 
 for my $system (@systems) {
   my $rouge1 = sprintf "%.2f", $results{$system}{'ROUGE-1'} * 100;
   my $rouge2 = sprintf "%.2f", $results{$system}{'ROUGE-2'} * 100;
-  say "$system\t$rouge1\t$rouge2"
+  my $rouge4 = sprintf "%.2f", $results{$system}{'ROUGE-4'} * 100;
+  say "$system\t$rouge1\t$rouge2\t$rouge4"
 }
 
 

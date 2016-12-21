@@ -9,7 +9,7 @@ use Encode qw{ encode decode };
 # Prepare ROUGE configuration.
 # 
 # @author  Stuart Mackie (s.mackie.1@research.gla.ac.uk).
-# @version November 2016.
+# @version December 2016.
 
 my @topics = (
   "d30001","d30002","d30003","d30005","d30006","d30007","d30008","d30010","d30011","d30015",

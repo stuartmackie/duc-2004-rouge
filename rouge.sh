@@ -4,7 +4,7 @@
 # ROUGE Evaluation.
 # 
 # @author  Stuart Mackie (s.mackie.1@research.gla.ac.uk).
-# @version November 2016.
+# @version December 2016.
 
 # Models:
 rm -rf models
@@ -20,11 +20,11 @@ mkdir peers
 ./rouge-3-xmlconf.pl
 
 # ROUGE:
-ROUGE_EVAL_HOME=./RELEASE-1.5.5/data perl ./RELEASE-1.5.5/ROUGE-1.5.5.pl -n 2 -x -m -l 100 -p 0.5 -c 95 -r 1000 -f A -t 0 -a -d rouge.xml > rouge.res
+ROUGE_EVAL_HOME=./RELEASE-1.5.5/data perl ./RELEASE-1.5.5/ROUGE-1.5.5.pl -n 4 -x -m -l 100 -p 0.5 -c 95 -r 1000 -f A -t 0 -a -d rouge.xml > rouge.res
 
   # ROUGE parameters:
 
-  # -n 2       ## ROUGE-N.
+  # -n 4       ## ROUGE-N.
   # -x         ## Skip ROUGE-L.
 
   # -m         ## Porter stemming.

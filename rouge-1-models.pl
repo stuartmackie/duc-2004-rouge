@@ -9,7 +9,7 @@ use Encode qw{ encode decode };
 # Prepare ROUGE models.
 # 
 # @author  Stuart Mackie (s.mackie.1@research.gla.ac.uk).
-# @version November 2016.
+# @version December 2016.
 
 use File::Slurp;
 use Lingua::Sentence;
